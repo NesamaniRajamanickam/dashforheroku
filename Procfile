@@ -1,1 +1,1 @@
-﻿web gunicorn dashcode:server
+﻿web gunicorn dashcode:app --log-file=-
